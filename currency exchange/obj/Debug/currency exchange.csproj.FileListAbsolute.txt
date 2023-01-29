@@ -1,0 +1,8 @@
+Z:\я у мамы програмист\currency exchange\currency exchange\bin\Debug\currency exchange.exe.config
+Z:\я у мамы програмист\currency exchange\currency exchange\bin\Debug\currency exchange.exe
+Z:\я у мамы програмист\currency exchange\currency exchange\bin\Debug\currency exchange.pdb
+Z:\я у мамы програмист\currency exchange\currency exchange\obj\Debug\currency exchange.csproj.AssemblyReference.cache
+Z:\я у мамы програмист\currency exchange\currency exchange\obj\Debug\currency exchange.csproj.SuggestedBindingRedirects.cache
+Z:\я у мамы програмист\currency exchange\currency exchange\obj\Debug\currency exchange.csproj.CoreCompileInputs.cache
+Z:\я у мамы програмист\currency exchange\currency exchange\obj\Debug\currency exchange.exe
+Z:\я у мамы програмист\currency exchange\currency exchange\obj\Debug\currency exchange.pdb
